@@ -40,8 +40,8 @@ deactivate
 
 _Скріншоти виконання роботи з терміналу, файлів та GitHub:_
 
-![]([https://raw.githubusercontent.com/Dorothy905432/virtual/main/virtualenv_task/screenshots/main-py.png](https://github.com/Dorothy905432/virtual/blob/main/screenshots/main.png?raw=true))  
-![](https://raw.githubusercontent.com/Dorothy905432/virtual/main/virtualenv_task/screenshots/requirements.png)
+![main.png](https://github.com/Dorothy905432/virtual/raw/main/screenshots/main.png)  
+![requirements.png](https://github.com/Dorothy905432/virtual/raw/main/screenshots/requirements.png)
 
 ## 🧾 Висновок
 
